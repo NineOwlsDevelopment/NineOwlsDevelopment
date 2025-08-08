@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jeremy
+# 👋 Hey, I'm PJ
 
 ### 🧠 Fullstack Engineer | 🧱 Blockchain Dev | 🤖 AI Systems Builder
 
